@@ -165,7 +165,7 @@ Bard (Gemini) was the simplest and most accessible, well-suited for non-expert r
 •
 Cohere Command produced a technical and polished summary, strong in accuracy.
 •
-Meta AI delivered the shortest and simplest version, correct but lacking nuance.
+Meta AI delivered the shortest and simplest version, 
 
 
 <img width="675" height="472" alt="image" src="https://github.com/user-attachments/assets/9a08694f-4d24-4866-8ab0-6b7ef59f956b" />
